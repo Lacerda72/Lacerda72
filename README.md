@@ -5,8 +5,6 @@
 - 📫 Contate-me no email: diego_costa72@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
-##
-
 <div align="center">
   <a href="https://github.com/Lacerda72">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lacerda72&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
