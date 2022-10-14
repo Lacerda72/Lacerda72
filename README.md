@@ -1,6 +1,6 @@
 ### Oie! Eu sou o Diego Lacerda👋
-- 🔭 Hoje trabalho com Suporte ...
-- 🌱 Estou cursando ADS na Fatec Arthur Azevedo ...
+- 🔭 Hoje trabalho com Suporte
+- 🌱 Estou cursando ADS na Fatec Arthur Azevedo
 - 🌱 Estudando Javascript
 - 📫 Contate-me no email: diego_costa72@hotmail.com
 - 😄 Pronouns: Ele/Dele
