@@ -1,18 +1,13 @@
 # Bem-vindo ao Meu Perfil do GitHub! 👋
 
 ## Sobre Mim
-Olá, meu nome é Diego Lacerda, sou recém-formado em Análise e Desenvolvimento de Sistemas pela Fatec de Mogi Mirim (2023). Atualmente, estou focando minha carreira na área de Garantia de Qualidade (QA). Com um ano e meio de experiência na área de suporte, obtive valiosos insights sobre o funcionamento prático dos sistemas.
-
-## Experiência Profissional
-- **Suporte Técnico:** Tenho 1 ano e meio de experiência em suporte técnico, proporcionando soluções eficazes, aplicando treinamento para os usuarios e garantindo a satisfação do cliente.
-
-- **Estágio em Infraestrutura:** Durante 7 meses, atuei como estagiário na área de infraestrutura, adquirindo conhecimentos valiosos sobre a base tecnológica que sustenta os sistemas.
+Olá, meu nome é Diego Lacerda, sou recém-formado em Análise e Desenvolvimento de Sistemas pela Fatec de Mogi Mirim (2023). Atualmente estou focando minha carreira na área de Garantia de Qualidade (QA). Com um ano e meio de experiência na área de suporte, obtive valiosos insights sobre o funcionamento prático dos sistemas.
 
 ## Especializações
-- **QA Especialista:** Atualmente, estou me especializando na área de Garantia de Qualidade, onde busco aprimorar minhas habilidades em testes e assegurar a entrega de software de alta qualidade.
+- **QA Especialista:** Estou me especializando na área de Quality Assurance, onde busco aprimorar minhas habilidades em testes e assegurar a entrega de software de alta qualidade.
 
 ## Minha Abordagem
-Eu valorizo a colaboração e a diversidade de perspectivas. Acredito que equipes diversas, com diferentes visões sobre uma tarefa, são fundamentais para criar soluções inovadoras e eficientes.
+Valorizo a colaboração e a diversidade de perspectivas, acredito que equipes diversas, com diferentes visões sobre uma tarefa, são fundamentais para criar soluções inovadoras e eficientes.
 Sempre estou disposto a aprender e explorar novas tecnologias que possam aprimorar minha jornada profissional.
 
 ## Contato
