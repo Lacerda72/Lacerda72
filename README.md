@@ -1,7 +1,8 @@
 ### Oie! Eu sou o Diego Lacerda👋
 - 🔭 Hoje trabalho com Suporte
-- 🌱 Estou cursando ADS na Fatec Arthur Azevedo
-- 🌱 Estudando Javascript
+- 🌱 Formado em ADS na Fatec Arthur Azevedo no ano de 2023
+- 🌱 Estudando os conceitos do QA, desde seus responsabilidades e mantras
+- 🌱 Estudando as metodologias ageis
 - 📫 Contate-me no email: diego_costa72@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
