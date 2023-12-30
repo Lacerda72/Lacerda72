@@ -20,8 +20,8 @@ Fique à vontade para entrar em contato comigo para discussões, colaborações 
 
 <div>
 <a href="https://www.linkedin.com/in/diego-de-lacerda-costa-a37963169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[E-mail](diego_costa72@hotmail.com)
 </div>
+[E-mail](diego_costa72@hotmail.com)
 
 ##
 
