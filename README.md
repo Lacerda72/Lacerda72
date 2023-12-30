@@ -17,8 +17,6 @@ Eu valorizo a colaboração e a diversidade de perspectivas. Acredito que equipe
 ## Contato
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para trocar ideias! 😊
 
-- [LinkedIn](https://www.linkedin.com/in/diego-de-lacerda-costa-a37963169)
-- [E-mail](seu-email@example.com)
 
 <div align="center">
   <a href="https://github.com/Lacerda72">
