@@ -28,9 +28,4 @@ Fique à vontade para entrar em contato comigo para discussões, colaborações 
 </div>
 
  ##
- 
 
-  
-  ![Snake animation](https://github.com/Lacerda72/Lacerda72/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
