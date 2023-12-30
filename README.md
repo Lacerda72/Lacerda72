@@ -13,6 +13,7 @@ Olá, meu nome é Diego Lacerda, sou recém-formado em Análise e Desenvolviment
 
 ## Minha Abordagem
 Eu valorizo a colaboração e a diversidade de perspectivas. Acredito que equipes diversas, com diferentes visões sobre uma tarefa, são fundamentais para criar soluções inovadoras e eficientes.
+Sempre estou disposto a aprender e explorar novas tecnologias que possam aprimorar minha jornada profissional.
 
 ## Contato
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para trocar ideias! 😊
