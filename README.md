@@ -17,11 +17,11 @@ Sempre estou disposto a aprender e explorar novas tecnologias que possam aprimor
 
 ## Contato
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para trocar ideias! 😊
-
 <div>
 <a href="https://www.linkedin.com/in/diego-de-lacerda-costa-a37963169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-[E-mail](diego_costa72@hotmail.com)
+
+- [E-mail](diego_costa72@hotmail.com)
 
 ##
 
