@@ -19,12 +19,10 @@ Sempre estou disposto a aprender e explorar novas tecnologias que possam aprimor
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para trocar ideias! 😊
 <div>
 <a href="https://www.linkedin.com/in/diego-de-lacerda-costa-a37963169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:diego_costa72@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<form action="mailto:diego_costa72@hotmail.com" method="post" enctype="text/plain">
-  <input type="submit" value="Enviar E-mail">
-</form>
-
-
+<a href="mailto:diego_costa72@hotmail.com?subject=Assunto do Email&body=Corpo do Email" target="_blank">
+  <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+</a>
+  
 ##
 
 <div align="center">
