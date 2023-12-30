@@ -16,7 +16,10 @@ Eu valorizo a colaboração e a diversidade de perspectivas. Acredito que equipe
 
 ## Contato
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para trocar ideias! 😊
+<div>
+<a href="https://www.linkedin.com/in/diego-de-lacerda-costa-a37963169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+##
 
 <div align="center">
   <a href="https://github.com/Lacerda72">
@@ -26,8 +29,7 @@ Fique à vontade para entrar em contato comigo para discussões, colaborações 
 
  ##
  
-<div>
-<a href="https://www.linkedin.com/in/diego-de-lacerda-costa-a37963169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
   
   ![Snake animation](https://github.com/Lacerda72/Lacerda72/blob/output/github-contribution-grid-snake.svg)
   
