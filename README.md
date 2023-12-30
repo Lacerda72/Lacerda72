@@ -20,8 +20,10 @@ Fique à vontade para entrar em contato comigo para discussões, colaborações 
 
 <div>
 <a href="https://www.linkedin.com/in/diego-de-lacerda-costa-a37963169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:diego_costa72@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:diego_costa72@hotmail.com?subject=Assunto do Email&body=Corpo do Email" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+diego_costa72@hotmail.com
 </div>
+
 ##
 
 <div align="center">
